@@ -16,6 +16,6 @@ public class numeralis{
 			}
 			media = media/args.length;
 		}
-		syso(media menor maior);
+		syso("medía:" +media+ "maior:" + maior "menor" + menor);
 	}
 }
